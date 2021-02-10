@@ -4,7 +4,7 @@ Are typical solutions to commonly occurring problems in software design
 ### [Creational Design Patterns](https://github.com/ScornfulBirch/design-patterns/tree/master/src/creational#creational-design-patterns)
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code
 
-### Structural Design Patterns
+### [Structural Design Patterns](https://github.com/ScornfulBirch/design-patterns/tree/master/src/structural#structural-design-patterns)
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
 ### Behavioral Design Patterns
